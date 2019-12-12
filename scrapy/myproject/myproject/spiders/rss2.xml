@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+ <title>gihyo.jp：総合</title>
+ <link>https://gihyo.jp/</link>
+ <description>gihyo.jp（総合）の更新情報をお届けします</description>
+ <language>ja-jp</language>
+ <copyright>技術評論社 2019</copyright>
+ <lastBuildDate>Tue, 10 Dec 2019 01:52:00 +0900</lastBuildDate>
+ <image>
+  <url>https://gihyo.jp/assets/templates/gihyojp2007/image/header_logo_gihyo.gif</url>
+  <title>gihyo.jp</title>
+  <link>https://gihyo.jp/</link>
+ </image>
+ <item>
+  <title>2019年12月9日　Linux 5.5-rc1が公開，正式リリースは2020年1月末か ── Linux Daily Topics</title>
+  <link>https://gihyo.jp/admin/clip/01/linux_dt/201912/09</link>
+  <description>Linus Torvaldsは12月8日，「Linux 5.5」の最初のリリース候補版となる「Linux 5.5-rc1」を公開した。</description>
+  <pubDate>Mon, 09 Dec 2019 13:18:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/admin/clip/01/linux_dt">Linux Daily Topics</category>
+  <guid>https://gihyo.jp/admin/clip/01/linux_dt/201912/09</guid> 
+  <author>階戸アキラ</author>
+ </item>
+ <item>
+  <title>003　良いアーキテクチャが良いビジネスを生み出す―「The Amazon Builders' Library」に込められたヴァーナー博士のスピリット ── 「AWS re:Invent 2019」速報ミニレポート“re:Inventのスキマから”</title>
+  <link>https://gihyo.jp/news/report/01/aws-reinvent19/0003</link>
+  <description>2012年に開催された第1回目の「AWS re:Invent 2012」以来，Amazon.comのCTOを務めるヴァーナー・ヴォゲルス博士のキーノートでは，20前後のアップデートが発表されるのが通例です。</description>
+  <pubDate>Mon, 09 Dec 2019 13:09:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/news/report/01/aws-reinvent19">「AWS re:Invent 2019」速報ミニレポート“re:Inventのスキマから”</category>
+  <guid>https://gihyo.jp/news/report/01/aws-reinvent19/0003</guid> 
+  <author>五味明子</author>
+ </item>
+ <item>
+  <title>2019年12月6日号　Ubuntu Proのリリース ── Ubuntu Weekly Topics</title>
+  <link>https://gihyo.jp/admin/clip/01/ubuntu-topics/201912/06</link>
+  <description>12月4日，Canonicalから「Ubuntu Pro」という新しいプロダクトがリリースされました。最初にリリースされたのはUbuntu Pro for AWSと呼ばれるAWS向けバージョンで，AWS Marketplaceから入手できるものです。</description>
+  <pubDate>Fri, 06 Dec 2019 10:13:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/admin/clip/01/ubuntu-topics">Ubuntu Weekly Topics</category>
+  <guid>https://gihyo.jp/admin/clip/01/ubuntu-topics/201912/06</guid> 
+  <author>吉田史</author>
+ </item>
+ <item>
+  <title>DAY-1，時系列データベース‘Flash’とは？／LBaaS実現への道 ── 「LINE DEVELOPER DAY 2019」レポート</title>
+  <link>https://gihyo.jp/news/report/01/line-devday19/0001</link>
+  <description>LINE（株）は11月20日と21日の2日間，東京・お台場の「グランドニッコー東京 台場」で，同社が運営するサービスや技術領域でのチャレンジ，今後の取り組みなどを紹介する技術カンファレンス「LINE DEVELOPER DAY 2019」を開催しました。</description>
+  <pubDate>Fri, 06 Dec 2019 09:30:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/news/report/01/line-devday19">「LINE DEVELOPER DAY 2019」レポート</category>
+  <guid>https://gihyo.jp/news/report/01/line-devday19/0001</guid> 
+  <author>高島修</author>
+ </item>
+ <item>
+  <title>002　45秒が命運を分ける ―ロサンゼルスの地震警告システム「ShakeAlertLA」を支えるAWS ── 「AWS re:Invent 2019」速報ミニレポート“re:Inventのスキマから”</title>
+  <link>https://gihyo.jp/news/report/01/aws-reinvent19/0002</link>
+  <description>AWSは各国の政府機関や自治体，NPO，学校などのパブリックセクターにおいても高いシェアを誇っており，現時点で4万を超えるパブリックセクターの顧客がAWSクラウドを利用しています。</description>
+  <pubDate>Fri, 06 Dec 2019 08:50:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/news/report/01/aws-reinvent19">「AWS re:Invent 2019」速報ミニレポート“re:Inventのスキマから”</category>
+  <guid>https://gihyo.jp/news/report/01/aws-reinvent19/0002</guid> 
+  <author>五味明子</author>
+ </item>
+ <item>
+  <title>ひとりでも多くの「優秀なデジタルクリエイター」を輩出し，より良い世の中をつくる ―三上陽平流UXデザインのエバンジェリストとしての組織の巻き込み方 ── インタビュー</title>
+  <link>https://gihyo.jp/news/interview/2019/12/0501</link>
+  <description>今回，メンバーズキャリアのUXデザイン分野をリードしている人材として，執行役員を担うUXデザイナー三上陽平氏（HCD-Net認定 人間中心設計専門家）に伺いました。</description>
+  <pubDate>Thu, 05 Dec 2019 12:54:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/news/interview">インタビュー</category>
+  <guid>https://gihyo.jp/news/interview/2019/12/0501</guid> 
+  <author>森川裕美，羽山祥樹</author>
+ </item>
+ <item>
+  <title>第15回　Days of WINE and Struggles［2］ ── 続・玩式草子 ―戯れせんとや生まれけん―</title>
+  <link>https://gihyo.jp/lifestyle/serial/01/ganshiki-soushi-2/0015</link>
+  <description>前回に引き続き，Plamo Linux Multilib化の日記風記録です。日付は適当なものの，このあたりまではCLFSのドキュメントに沿った作業なので，実質3～4日程度で進みました。</description>
+  <pubDate>Thu, 05 Dec 2019 10:17:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/lifestyle/serial/01/ganshiki-soushi-2">続・玩式草子 ―戯れせんとや生まれけん―</category>
+  <guid>https://gihyo.jp/lifestyle/serial/01/ganshiki-soushi-2/0015</guid> 
+  <author>こじまみつひろ</author>
+ </item>
+ <item>
+  <title>2019年12月第1週号 1位は，そろそろ廃れるべきデザイントレンド，気になるネタは，グーグル，読み聞かせ音声をスマスピで再生する「My Storytime」--両親が録音可能 ── 週刊Webテク通信</title>
+  <link>https://gihyo.jp/design/clip/01/weekly-web-tech/201912/05</link>
+  <description>ネットで見かけたWebテク（Webテクニック・Webテクノロジー）記事から，Webデザイナーの目で厳選したネタを週刊で紹介するこのコーナー。今回は，2019年11月25日～12月1日の間に見つけた記事のベスト5です。</description>
+  <pubDate>Thu, 05 Dec 2019 10:15:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/design/clip/01/weekly-web-tech">週刊Webテク通信</category>
+  <guid>https://gihyo.jp/design/clip/01/weekly-web-tech/201912/05</guid> 
+  <author>芦之由</author>
+ </item>
+ <item>
+  <title>2019年12月第1週　アンビエント コンピューティングを加速する ── Android Weekly Topics</title>
+  <link>https://gihyo.jp/lifestyle/clip/01/awt/201912/05</link>
+  <description>Googleが一部の端末に向けて，アンビエントモードをリリースします。これは，Googleが目指すアンビエントコンピューティングの一環です。</description>
+  <pubDate>Thu, 05 Dec 2019 10:15:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/lifestyle/clip/01/awt">Android Weekly Topics</category>
+  <guid>https://gihyo.jp/lifestyle/clip/01/awt/201912/05</guid> 
+  <author>傍島康雄</author>
+ </item>
+ <item>
+  <title>001　ボトルネックはコンピュート！？ 「AQUA for Amazon Redshift」にAWSらしさを見る ── 「AWS re:Invent 2019」速報ミニレポート“re:Inventのスキマから”</title>
+  <link>https://gihyo.jp/news/report/01/aws-reinvent19/0001</link>
+  <description>12月2日～6日（米国時間）の5日間に渡って，AWSの年次カンファレンス「AWS re:Invent 2019」が米ラスベガスで開催されています。</description>
+  <pubDate>Wed, 04 Dec 2019 13:54:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/news/report/01/aws-reinvent19">「AWS re:Invent 2019」速報ミニレポート“re:Inventのスキマから”</category>
+  <guid>https://gihyo.jp/news/report/01/aws-reinvent19/0001</guid> 
+  <author>五味明子</author>
+ </item>
+ <item>
+  <title>第597回　UbuntuのルートファイルシステムをZFSにしてみる ── Ubuntu Weekly Recipe</title>
+  <link>https://gihyo.jp/admin/serial/01/ubuntu-recipe/0597</link>
+  <description>Ubuntu 19.10ではデスクトップのインストール時にファイルシステムとしてZFSを選択できる機能が実験的に導入されました。そこで今回はそのZFSを実際に使ってみましょう。</description>
+  <pubDate>Wed, 04 Dec 2019 10:04:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/admin/serial/01/ubuntu-recipe">Ubuntu Weekly Recipe</category>
+  <guid>https://gihyo.jp/admin/serial/01/ubuntu-recipe/0597</guid> 
+  <author>柴田充也</author>
+ </item>
+ <item>
+  <title>これで動画編集は自由自在！ ── 新刊ピックアップ</title>
+  <link>https://gihyo.jp/book/pickup/2019/0083</link>
+  <description>旅行やレクレーションなどの楽しい場面は，写真を撮るだけではなく，動画を撮影しておくと貴重な思い出になります。</description>
+  <pubDate>Wed, 04 Dec 2019 09:30:30 +0900</pubDate>
+  <category domain="https://gihyo.jp/book/pickup">新刊ピックアップ</category>
+  <guid>https://gihyo.jp/book/pickup/2019/0083</guid> 
+  <author>編集部</author>
+ </item>
+ <item>
+  <title>Excel VBAを学び続けるための土台をつくる ── 新刊ピックアップ</title>
+  <link>https://gihyo.jp/book/pickup/2019/0082</link>
+  <description>VBAはとても多くの方が活用している人気のプログラム言語です。</description>
+  <pubDate>Wed, 04 Dec 2019 09:30:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/book/pickup">新刊ピックアップ</category>
+  <guid>https://gihyo.jp/book/pickup/2019/0082</guid> 
+  <author>編集部</author>
+ </item>
+ <item>
+  <title>第111回　MySQLのソート処理について ── MySQL道普請便り</title>
+  <link>https://gihyo.jp/dev/serial/01/mysql-road-construction-news/0111</link>
+  <description>クエリの抽出結果を並び替える（ソート）にはORDER BY句を使用します。</description>
+  <pubDate>Tue, 03 Dec 2019 09:31:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/dev/serial/01/mysql-road-construction-news">MySQL道普請便り</category>
+  <guid>https://gihyo.jp/dev/serial/01/mysql-road-construction-news/0111</guid> 
+  <author>北川健太郎</author>
+ </item>
+ <item>
+  <title>コンテナ技術とKubernetes ── 新刊ピックアップ</title>
+  <link>https://gihyo.jp/book/pickup/2019/0081</link>
+  <description>仮想化技術よりもクラウド環境に適した開発技術として，コンテナ技術が注目を浴びています。</description>
+  <pubDate>Tue, 03 Dec 2019 09:30:30 +0900</pubDate>
+  <category domain="https://gihyo.jp/book/pickup">新刊ピックアップ</category>
+  <guid>https://gihyo.jp/book/pickup/2019/0081</guid> 
+  <author>編集部</author>
+ </item>
+ <item>
+  <title>脳と機械が融合する ～電脳通信時代の到来 ── 新刊ピックアップ</title>
+  <link>https://gihyo.jp/book/pickup/2019/0080</link>
+  <description>「電脳会議」上ではコンピュータの話が語られることが多いかもしれませんが，今回は人間の脳を電脳化して通信する話です。</description>
+  <pubDate>Tue, 03 Dec 2019 09:30:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/book/pickup">新刊ピックアップ</category>
+  <guid>https://gihyo.jp/book/pickup/2019/0080</guid> 
+  <author>茨木拓也</author>
+ </item>
+ <item>
+  <title>Japan OpenShift User Group，OpenShift.Runを12月20日に開催 ── ニュースリリース</title>
+  <link>https://gihyo.jp/news/nr/2019/12/0201</link>
+  <description>Japan OpenShift User Groupは，12月20日にOpenShift.Runを開催する。</description>
+  <pubDate>Mon, 02 Dec 2019 19:37:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/news/nr">ニュースリリース</category>
+  <guid>https://gihyo.jp/news/nr/2019/12/0201</guid> 
+  <author>技術評論社</author>
+ </item>
+ <item>
+  <title>2019年12月2日　似て非なるもの ── 帰ってきた『技評ねこ部通信』</title>
+  <link>https://gihyo.jp/lifestyle/clip/01/monthly-cat/201912/1202</link>
+  <description>師走だよ。みんな，『ねこ手帳　2020』，買った？みんな，『ねこ手帳　2020』，買って！</description>
+  <pubDate>Mon, 02 Dec 2019 15:00:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/lifestyle/clip/01/monthly-cat">帰ってきた『技評ねこ部通信』</category>
+  <guid>https://gihyo.jp/lifestyle/clip/01/monthly-cat/201912/1202</guid> 
+  <author></author>
+ </item>
+ <item>
+  <title>第52回　MySQL Innovation Day 2019，PostgreSQL Conference Japan 2019開催 ── OSSデータベース取り取り時報</title>
+  <link>https://gihyo.jp/dev/serial/01/oss-db-various-news/0052</link>
+  <description>今回は，MySQL Innovation Day 2019での発表内容と，日本PostgreSQLユーザ会（JPUG）のカンファレンスの内容についてご紹介します。</description>
+  <pubDate>Mon, 02 Dec 2019 09:31:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/dev/serial/01/oss-db-various-news">OSSデータベース取り取り時報</category>
+  <guid>https://gihyo.jp/dev/serial/01/oss-db-various-news/0052</guid> 
+  <author>中西剛紀，梶山隆輔，溝口則行</author>
+ </item>
+ <item>
+  <title>Amazon Web Services（AWS）って何だろう? ── 新刊ピックアップ</title>
+  <link>https://gihyo.jp/book/pickup/2019/0079</link>
+  <description>Amazon Web Servicesは，ショッピングサイトでおなじみのAmazonが提供する企業向けクラウドコンピューティングサービスです。</description>
+  <pubDate>Mon, 02 Dec 2019 09:30:30 +0900</pubDate>
+  <category domain="https://gihyo.jp/book/pickup">新刊ピックアップ</category>
+  <guid>https://gihyo.jp/book/pickup/2019/0079</guid> 
+  <author>編集部</author>
+ </item>
+</channel>
+</rss>
