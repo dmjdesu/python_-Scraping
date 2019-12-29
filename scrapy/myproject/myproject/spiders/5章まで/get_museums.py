@@ -1,4 +1,4 @@
-from robobrowser import Robobrowser
+from robobrowser import RoboBrowser
 
 browser = RoboBrowser(parser='html.parser')
 browser.open('https://www.google.co.jp/')
